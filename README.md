@@ -2,12 +2,13 @@
 Project Goals:
 
 Analyze borrower profiles and their financial behavior
+
 Create a classification model to identify reliable and high-risk clients.
+
 Build a dashboard to highlight segments that may be riskier, more profitable, or require different underwriting policies
+
 Project Stages:
-
 Data Preparation
-
 Removing duplicates, handling missing values and outliers, analyzing variable distributions
 Exploratory Analysis:
 
