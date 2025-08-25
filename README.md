@@ -1,10 +1,7 @@
 # Credit-Risk-Assessment-Project
 Project Goals:
-
 Analyze borrower profiles and their financial behavior
-
 Create a classification model to identify reliable and high-risk clients.
-
 Build a dashboard to highlight segments that may be riskier, more profitable, or require different underwriting policies
 
 Project Stages:
@@ -13,19 +10,18 @@ Removing duplicates, handling missing values and outliers, analyzing variable di
 Exploratory Analysis:
 
 Financial Profile:
-
 What is the average loan_percent_income across different income levels?
 Who most often takes out large loans — by age, experience, property type?
 How are income and interest rate (loan_int_rate) related?
 How does loan_percent_income vary depending on credit grade (loan_grade)?
-Credit History and Risk:
 
+Credit History and Risk:
 How does credit history length (cred_hist_length) affect loan amount?
 What is the average credit history length across age groups?
 How is default history (cb_person_default_on_file) related to interest rate?
 Who has more defaults — by age, loan purpose, or employment status?
-Dependence on Loan Purpose:
 
+Dependence on Loan Purpose:
 Which loan purposes are more often linked to large amounts?
 Which loan intents have a higher share of borrowers with default history?
 For the Classification Model:
